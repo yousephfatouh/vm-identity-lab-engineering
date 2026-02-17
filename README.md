@@ -76,9 +76,9 @@ Press:
 Win + R
 
 Then run:
-
+```
 C:\Windows\System32\Sysprep\sysprep.exe
-
+```
 
 Select:
 - Enter System Out-of-Box Experience (OOBE)
