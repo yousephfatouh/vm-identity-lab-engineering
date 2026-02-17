@@ -52,3 +52,14 @@ After cloning:
 ```bash
 sudo rm -f /etc/machine-id
 sudo systemd-machine-id-setup
+
+
+If SSH is installed:
+
+sudo rm -f /etc/ssh/ssh_host_*
+sudo dpkg-reconfigure openssh-server
+
+Then update hostname:
+
+sudo hostnamectl set-hostname client01
+
