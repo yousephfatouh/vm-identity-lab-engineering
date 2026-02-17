@@ -87,6 +87,11 @@ Select:
 
 This removes the current SID and prepares Windows to generate a new identity on next boot.
 
+<p align="center">
+  <img src="screenshots/1.png" width="700">
+</p>
+
+
 ## Step 3 – Clone in KVM / virt-manager
 
 - Right-click VM → Clone
