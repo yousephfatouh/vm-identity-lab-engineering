@@ -98,6 +98,9 @@ This removes the current SID and prepares Windows to generate a new identity on 
 - Select “Clone this disk”
 - Do NOT share disk
 
+<p align="center">
+  <img src="screenshots/2.png" width="700">
+</p>
 ## Step 4 – First Boot
 
 On first boot:
