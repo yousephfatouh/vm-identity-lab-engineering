@@ -19,7 +19,7 @@
 - [Architecture Concept](#architecture-concept)
 - [Key Takeaways](#key-takeaways)
 - [Author](#author)
--  [Writ-up](#Writ-up)
+-  [Write-up](#Write-up)
 
 ---
 
@@ -204,7 +204,7 @@ Mastering identity-safe cloning allows you to:
 
 
 Build once Generalize properly Clone safely Scale intelligently.
-## Writ-up 
+## Write-up 
 https://yousephfatouh.medium.com/build-once-clone-many-managing-windows-lab-machines-the-right-way-without-reinstalling-every-1d34cebfd103
 
 ## Author
